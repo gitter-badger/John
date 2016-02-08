@@ -1,4 +1,6 @@
 #otouto
+
+[![Join the chat at https://gitter.im/Lord-Mohammad/John](https://badges.gitter.im/Lord-Mohammad/John.svg)](https://gitter.im/Lord-Mohammad/John?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The plugin-wielding, multipurpose Telegram bot.
 
 The public bot runs on [@mokubot](https://telegram.me/mokubot).
